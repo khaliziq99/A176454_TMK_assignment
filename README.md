@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="readme/github.png" width="250" />
+  <img src="assets/logo.png" width="250" />
   <br>⭐ COVID-19 ⭐<br> 
 </h1>
 <h4 align="center">
