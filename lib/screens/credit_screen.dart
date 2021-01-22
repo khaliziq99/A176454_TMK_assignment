@@ -21,7 +21,7 @@ class _CreditScreenState extends State<CreditScreen> {
   }
 
   void gitHub() async {
-    const url = 'https://github.com/noobcoder17/covid-19';
+    const url = 'https://github.com/khaliziq99/A176454_TMK_final';
     if (await canLaunch(url)) {
       await launch(url, forceSafariVC: false,);
     } else {
