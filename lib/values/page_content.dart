@@ -55,8 +55,36 @@ List<PageContent> pageContentList = [
         details: 'Cover your nose and mouth when you cough or sneeze',
          imagePath: 'assets/prevention/cover_cough.png',
 
-      ),
-       
+      )
     ]
+  ),
+  PageContent(
+      pageHeading: "Activity\nRecommendation",
+      heading1: 'Activity',
+      heading2: 'Recommendation',
+      heading3: 'Do these things during MCO.',
+      content: <SubContent>[
+        SubContent(
+          title: 'Board Game',
+          details: 'Play board game like Monopoly with your family.',
+          imagePath: 'assets/activity/board_game.png',
+        ),
+        SubContent(
+          title: 'Play E-Sport',
+          details: 'Play e-sport like PUBG or Mobile Legends.',
+          imagePath: 'assets/activity/e_sport.png',
+        ),
+        SubContent(
+          title: 'Gardening',
+          details: 'Make your own garden.',
+          imagePath: 'assets/activity/gardening.png',
+        ),
+        SubContent(
+          title: 'Workout',
+          details: 'Create your own gym in your house',
+          imagePath: 'assets/activity/workout.png',
+
+        )
+      ]
   ),
 ];
